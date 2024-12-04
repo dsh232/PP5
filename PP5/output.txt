@@ -1,0 +1,5 @@
+Patient: Ivan, Last Temperature: 40, Age: 18, Dosage: 0 mg.
+Patient: Omon, Last Temperature: 36.6, Age: 19, Dosage: 0 mg.
+Patient: Sasha, Last Temperature: 37, Age: 66, Dosage: 0 mg.
+Patient: Hasha, Last Temperature: 99, Age: 21, Dosage: 0 mg.
+Patient: Natasha, Last Temperature: 37, Age: 22, Dosage: 0 mg.
